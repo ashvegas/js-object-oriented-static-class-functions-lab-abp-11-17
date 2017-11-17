@@ -4,9 +4,8 @@
    }
 
    static All(){
-     return this.all;
+     return this._all;
    }
  }
 
 Question._All = []
-
