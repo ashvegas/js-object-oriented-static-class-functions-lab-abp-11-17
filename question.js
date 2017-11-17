@@ -1,6 +1,7 @@
  class Question {
-   constructor (id) {
-     this.id = id
+   constructor (content) {
+     this.content = content
+     this.save()
    }
 
    static All(){
@@ -15,5 +16,3 @@
 Question._All = []
 
 new Question("What's your favourite food?");
-
-
