@@ -3,3 +3,4 @@
      this.id = id
    }
  }
+Question.All = []
