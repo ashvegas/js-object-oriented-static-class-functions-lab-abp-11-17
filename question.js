@@ -13,3 +13,8 @@
  }
 
 Question._All = []
+
+
+let question = new Question("What's your favorite food?")
+
+
