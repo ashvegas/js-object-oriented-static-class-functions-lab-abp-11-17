@@ -6,6 +6,6 @@
 
 Question._All = []
 
-static All() {
+static All(){
   return this._All;
 }
