@@ -14,7 +14,4 @@
 
 Question._All = []
 
-
-let question = new Question("What's your favorite food?")
-
-
+let question = new Question("What's your favourite food?")
