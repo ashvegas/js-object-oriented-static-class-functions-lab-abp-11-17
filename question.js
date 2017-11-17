@@ -10,7 +10,7 @@
      this.constructor._All.push(this);
    }
    static Find(id){
-     this.All(0)
+     return this.All[ is -1]
    }
  }
 Question._All = []
