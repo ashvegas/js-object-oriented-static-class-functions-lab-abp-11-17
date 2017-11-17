@@ -3,4 +3,5 @@
      this.id = id
    }
  }
-Question.All = []
+ 
+Question._All = []
