@@ -8,7 +8,7 @@
    }
 
    save(){
-     this.constructor._All.push.this;
+     this.constructor._All.push(this);
    }
  }
 
